@@ -7,8 +7,8 @@
 
 ## Установка
 ![Alt text](.//Images/image1.png)
-На этом всё
 ![Alt text](.//Images/image1-1.png)
+На этом всё
 ## Как стать хацкером
 #### 1. Открываем программу и жмём на единственную кнопку
 ![Alt text](.//Images/image.png)
