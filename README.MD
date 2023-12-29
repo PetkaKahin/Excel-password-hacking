@@ -8,7 +8,7 @@
 
 
 ## Установка
-<a href = "https://github.com/PetkaKahin/Excel-password-hacking/blob/main/Взлом%20паролей%20Excel.exe" download>Просто берешь и нажимешь на этот текст.</a>
+<a href = "https://downgit.github.io/#/home?url=https://github.com/PetkaKahin/Excel-password-hacking/blob/main/Взлом%20паролей%20Excel.exe" download>Просто берешь и нажимешь на этот текст.</a>
 На этом всё
 
 
