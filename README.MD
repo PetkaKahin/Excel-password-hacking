@@ -23,7 +23,7 @@
 ![Alt text](.//Images/image4.png)
 Всё дело в том, что эта программа поддерживает .xlsx и .xlsm форматы (расширения). 
 Что это значит:
-![Alt text](.//Images/image5.png)
+![Alt text](.//Images/image5.png)<br>
 Если у тебя не показывает этот формат, то [смотри здесь.](https://remontka.pro/file-extensions/)
 
 #### Далее нам необходимо сменить формат файла
